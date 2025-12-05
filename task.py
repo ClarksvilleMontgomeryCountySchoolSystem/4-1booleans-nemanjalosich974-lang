@@ -45,5 +45,4 @@ not_in_front = False     # " Yes and the fridge too."
 
 # REFLECTION: Discuss with your partner
 # Which variable names were easiest to work with? Why?
-'''The variable names that were easiest to work with were the names that did not have the word 'Not' in it. becasue the questions were straightforward and had nothing else there.
-Which were most confusing? Why? The variables names that were most confusing were the ones that had 'Not' in it.'''
+
